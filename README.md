@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danieltrof&label=Profile%20views&color=0e75b6&style=flat" alt="danieltrof" /> </p>
 
-- 🔭 I’m currently working on [Chess Java](https://github.com/Danieltrof/JavaChess)
+- 🔭 I’m currently working on "SOC Analyst Job Role Path" by HackTheBox
 
 - 🌱 I’m currently learning **Anything related to Cyber-security, AI and Web Development**
 
