@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on "SOC Analyst Job Role Path" by HackTheBox
 
-- 🌱 I’m currently learning **Anything related to Cyber-security, AI and Web Development**
+- 🌱 I’m currently learning **Cyber-security, AI and Web Development (.Net, C# etc.)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Danieltrof?tab=repositories](https://github.com/Danieltrof?tab=repositories)
 
