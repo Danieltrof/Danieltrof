@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **Cyber-security, AI and Web Development (.Net, C#, Jupyter, and much more)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Danieltrof?tab=repositories](https://github.com/Danieltrof?tab=repositories)
-- **NB There is a project that I cannot share, but you can see the end result here: https://punchmateshop.com/ **
+  <p><b> NB There is a project that I cannot share, but you can see the end result here: https://punchmateshop.com/</b></p>
 
 - 📫 How to reach me **https://www.linkedin.com/in/daniel-trofimovs/**
 
