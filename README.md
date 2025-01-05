@@ -4,12 +4,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danieltrof&label=Profile%20views&color=0e75b6&style=flat" alt="danieltrof" /> </p>
 
-- 🔭 I’m currently working on "SOC Analyst Job Role Path" by HackTheBox
+- 🔭 I’m currently working on "SOC Analyst Job Role Path" by HackTheBox, Automating Cell Segmentation project (Will be shared in May/June), and Privacy and Identity Technology Project.
 
-- 🌱 I’m currently learning **Cyber-security, AI and Web Development (.Net, C#, Jupyter, and much more)**
+- 🌱 I’m currently learning **Cyber-security, operating systems**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Danieltrof?tab=repositories](https://github.com/Danieltrof?tab=repositories)
-  <p><b> NB There is a project that I cannot share, but you can see the end result here: https://punchmateshop.com/</b></p>
+  <p><b> NB There is a project that I cannot share, but you can see the result here: https://punchmateshop.com/</b></p>
 
 - 📫 How to reach me **https://www.linkedin.com/in/daniel-trofimovs/**
 
