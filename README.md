@@ -9,7 +9,7 @@
 - 🌱 I’m currently working on **My Bachelor project**, An application that gives users masks, cell count and more, by using AI and a simple GUI. I am also currently taking a course in **resource-effective programming**. 
 
 - 👨‍💻 All of my projects are available at [https://github.com/Danieltrof?tab=repositories](https://github.com/Danieltrof?tab=repositories)
-  <p><b> NB one of my projects are under NDA, but you can see the result here: https://punchmateshop.com/</b></p>
+  <p><b> NB one of my projects are under NDA, but you can see the result here: https://punchmateshop.com/</b> This project consists of React for frontend, .NET core for APi and MySQL for databases</p>
 
 - 📫 You can reach me at LinkedIN **https://www.linkedin.com/in/daniel-trofimovs/**
 
