@@ -4,14 +4,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danieltrof&label=Profile%20views&color=0e75b6&style=flat" alt="danieltrof" /> </p>
 
-- 🔭 I’m currently working on "SOC Analyst Job Role Path" by HackTheBox, Automating Cell Segmentation project (Will be shared in May/June), and Privacy and Identity Technology Project.
+- 🔭 I’m currently working on "SOC Analyst Job Role Path" by HackTheBox, "Automating Cell Segmentation" project (Will be public in May/June), and resource-effective programming.
 
-- 🌱 I’m currently learning **Cyber-security, operating systems**
+- 🌱 I’m currently working on **My Bachelor project**, An application that gives users masks, cell count and more, by using AI and a simple GUI. I am also currently taking a course in **resource-effective programming**. 
 
 - 👨‍💻 All of my projects are available at [https://github.com/Danieltrof?tab=repositories](https://github.com/Danieltrof?tab=repositories)
-  <p><b> NB There is a project that I cannot share, but you can see the result here: https://punchmateshop.com/</b></p>
+  <p><b> NB one of my projects are under NDA, but you can see the result here: https://punchmateshop.com/</b></p>
 
-- 📫 How to reach me **https://www.linkedin.com/in/daniel-trofimovs/**
+- 📫 You can reach me at LinkedIN **https://www.linkedin.com/in/daniel-trofimovs/**
 
 - ⚡ Fun fact **I have been to 19 countries. I speak Norwegian, English and Russian fluently**
 
