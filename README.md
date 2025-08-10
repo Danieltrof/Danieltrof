@@ -4,12 +4,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danieltrof&label=Profile%20views&color=0e75b6&style=flat" alt="danieltrof" /> </p>
 
-- 🔭 I’m currently working on "SOC Analyst Job Role Path" by HackTheBox, "Automating Cell Segmentation" project (Will be public in May/June), and resource-effective programming.
+- 👨‍🎓 I have finished my Bachelors Degree in Information Technology at OsloMet!
 
-- 🌱 I’m currently working on **My Bachelor project**, An application that gives users masks, cell count and more, by using AI and a simple GUI. I am also currently taking a course in **resource-effective programming**. 
+- 🔭 I’m currently working on "SOC Analyst Job Role Path" by HackTheBox.
+
+- 🌱 I’m also continuously working on **My Bachelor project** with Dr. Fineide, An application that gives users masks, cell segmentstion and more, by using AI and a simple GUI. This project is currently under NDA but we will publish it soon! You can visit our website at https://www.cellseg.no
 
 - 👨‍💻 All of my projects are available at [https://github.com/Danieltrof?tab=repositories](https://github.com/Danieltrof?tab=repositories)
-  <p><b> NB one of my projects are under NDA, but you can see the result here: https://punchmateshop.com/</b> This project consists of React for frontend, .NET core for APi and MySQL for databases</p>
+  <p><b> NB My previous dropshipping project is under nda and had been sold. You can still visit the website here: https://punchmateshop.com/</b> This project consists of React for frontend, .NET core for APi and MySQL for databases</p>
 
 - 📫 You can reach me at LinkedIN **https://www.linkedin.com/in/daniel-trofimovs/**
 
