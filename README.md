@@ -1,17 +1,16 @@
 <h1 align="center">Hi 👋, I'm Daniel Trofimovs</h1>
-<h3 align="center">A passionate IT student based in Norway</h3>
+<h3 align="center">A passionate IT graduate based in Norway</h3>
 <img align="right" alt="PenguinCoding" width="400" src="https://media2.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif?cid=6c09b952prineqjy2kbl0pj778e6yllw7abz7xs01kvsx3v3&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danieltrof&label=Profile%20views&color=0e75b6&style=flat" alt="danieltrof" /> </p>
 
 - 👨‍🎓 I have finished my Bachelors Degree in Information Technology at OsloMet!
 
-- 🔭 I’m currently working on "SOC Analyst Job Role Path" by HackTheBox.
+- 🔭 I’m currently seeking opportunities in the field, while continuously learning and improving my skills in my free time.
 
-- 🌱 I’m also continuously working on **My Bachelor project** with Dr. Fineide, An application that gives users masks, cell segmentstion and more, by using AI and a simple GUI. This project is currently under NDA but we will publish it soon! You can visit our website at https://www.cellseg.no
+- 🌱 I’m proud to have been part of the development of a bachelor project focused on AI-powered cell segmentation and mask generation with a simple GUI. This project is under NDA but you can visit our website at https://www.cellseg.no
 
 - 👨‍💻 All of my projects are available at [https://github.com/Danieltrof?tab=repositories](https://github.com/Danieltrof?tab=repositories)
-  <p><b> NB My previous dropshipping project is under nda and was sold to a customer. You can still visit the website here: https://punchmateshop.com/</b> This project consists of React for frontend, .NET core for APi and MySQL for databases</p>
 
 - 📫 You can reach me at LinkedIN **https://www.linkedin.com/in/daniel-trofimovs/**
 
